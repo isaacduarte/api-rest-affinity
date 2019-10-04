@@ -1,7 +1,7 @@
 <?php
 include '../../conexao/Conexao.php';
 
-class Loja extends Conexao
+class Adquirente extends Conexao
 {
     private $descricao;
 
